@@ -9,7 +9,6 @@
 2. #绑定 账号
 3. ?查询物品
 4. #物品id 
-5. GitHub上传
 
 <img src="https://s2.loli.net/2024/01/09/LYlH8knBgCjh3R7.jpg" alt="e1a79389fe17fd1abf271c2421693e72.jpg" style="zoom:67%;" />
 
