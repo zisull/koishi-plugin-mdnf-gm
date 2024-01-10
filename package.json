@@ -1,0 +1,21 @@
+{
+  "name": "koishi-plugin-mdnf-gm",
+  "description": "自用GM优化,中英文问号查询,不限制自定义物品id,绑定账号/注册账号.",
+  "version": "0.0.1",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib",
+    "dist"
+  ],
+  "license": "MIT",
+  "scripts": {},
+  "keywords": [
+    "chatbot",
+    "koishi",
+    "plugin"
+  ],
+  "peerDependencies": {
+    "koishi": "^4.16.4"
+  }
+}
